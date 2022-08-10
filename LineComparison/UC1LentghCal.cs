@@ -22,7 +22,7 @@ namespace LineComparison
             double a = Math.Sqrt(Math.Pow(x2 - x1, 2));
             double b = Math.Sqrt(Math.Pow(y2 - y1, 2));
             double c = a + b;
-            Console.WriteLine(c);
+            Console.WriteLine("Total Length= "+c);
         }
     }
 }
