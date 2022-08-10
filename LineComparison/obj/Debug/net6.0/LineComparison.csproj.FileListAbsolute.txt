@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\obj\Debug\net6.0\refint\LineComparison.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Line Comparison\LineComparison\LineComparison\obj\Debug\net6.0\ref\LineComparison.dll
